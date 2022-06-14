@@ -10,11 +10,7 @@ class UI {
   clearInput() {
     this.inputFiled.value = ''
   }
-  showdate(callback) {
-    setTimeout(() => {
-      this.profileDiv.textContent = 'yük'
-    }, 2000)
-  }
+
 
   showUserInfo(user) {
     setTimeout(() => {
