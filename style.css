@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,800&display=swap');
+.profile .card{
+    display:flex;
+}
+.img{
+    border:1px solid;
+     min-height:44.5vh;
+    border-radius:50%;
+    overflow:hidden;
+    background:white;
+    background-image:url("https://cdn-icons-png.flaticon.com/512/1077/1077063.png");
+    background-size :150px;
+    background-repeat : no-repeat;
+    background-position: center;
+}
+.img img{
+    object-fit :cover;
+}
+/*font-family: 'Open Sans', sans-serif;*/
+
+.profile .card h3{
+font-family: 'Open Sans', sans-serif
+margin:0;
+}
+.profile .card p {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    margin:0;
+    font-size: 22px;
+}
+.profile .card span{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+
+}
+.btn-dark{
+    padding: 5px 50px;
+}
+.repos{
+    border:1px solid black;
+    background:black;
+}
+.flow span{
+    font-size:medium;
+}
+.flow p{
+    font-size:medium;
+}
+
+.userLocation{
+    display:flex;
+align-items: center;
+justify-content: left;
+padding:5px;
+
+}
+
+.mb-2{
+    float:left;
+}
