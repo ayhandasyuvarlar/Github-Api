@@ -3,8 +3,8 @@ Hi, I am Ayhan in this article and I have done this javascript githup api work. 
 
 
 ### App Images
-![image](img/app-1.png)
-![image](img/app-2.png)
-![image](img/app-3.png)
-![image](img/app-4.png)
+![image](images/app-1.png)
+![image](images/app-2.png)
+![image](images/app-3.png)
+![image](images/app-4.png)
 
